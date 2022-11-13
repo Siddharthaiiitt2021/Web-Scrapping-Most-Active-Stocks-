@@ -1,4 +1,4 @@
-# Web-Scrapping-Most-Active-Stocks-
+# Web Scrapping Most Active Stocks Using Scrapy
 
 Web scrapping to obtain most active stocks of a day for extended period of time using scrapy
 
