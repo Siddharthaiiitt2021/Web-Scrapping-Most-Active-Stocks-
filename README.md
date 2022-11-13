@@ -7,3 +7,5 @@ This projects scrapes web for most active stocks in a day and compiles a csv fil
 Periodically running this project gives us a csv file contaning most active stocks for a day over a period of time
 
 Can be used for training models concerned with activities in stock market
+
+This data is saved in 'Most_Active_Stocks.csv'
